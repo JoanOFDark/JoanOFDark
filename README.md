@@ -3,6 +3,12 @@ I am a graduate of the "C++ Developer" course by <a href="https://practicum.yand
 
 My <a href="https://astana.hh.kz/applicant/resumes/view?resume=e010fc4dff0b76c3090039ed1f774b6b626177">Resume</a> ✨
 
+My skills:
+
+Languages: C++, HTML, CSS, C#
+Programming: Algorithms, Debugging, Unit testing, OOP, Sanitizers
+Tools: STL, JSON
+
 <!--
 **JoanOFDark/JoanOFDark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
