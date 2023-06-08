@@ -1,10 +1,9 @@
 ### Hello there 👋 My name is Ivan, I am a C++ developer 🔭
 I am a graduate of the "C++ Developer" course by <a href="https://practicum.yandex.ru/">Yandex.Praktikum</a> 🌱
 
-My <a href="https://astana.hh.kz/applicant/resumes/view?resume=e010fc4dff0b76c3090039ed1f774b6b626177">Resume</a> ✨
+My [Ivan Krylov_20232CPP00042.pdf](https://github.com/JoanOFDark/JoanOFDark/files/11686048/Ivan.Krylov_20232CPP00042.pdf)>Resume</a> ✨
 
 ## My skills:
-
 #### Languages: C++, HTML, CSS, C#
 #### Programming: Algorithms, Debugging, Unit testing, OOP, Sanitizers
 #### Tools: STL, JSON
